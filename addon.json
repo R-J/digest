@@ -1,0 +1,15 @@
+{
+    "description": "Send digest to users.",
+    "version": "0.0.1",
+    "license": "MIT",
+    "key": "digest",
+    "type": "addon",
+    "settingsUrl": "/settings/digest",
+    "settingsPermission": "Garden.Settings.Manage",
+    "name": "Digest",
+    "authors": [
+        {
+            "name": "Robin Jurinka"
+        }
+    ]
+}
