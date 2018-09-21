@@ -10,7 +10,7 @@
 class DigestPlugin extends Gdn_Plugin {
     public function setup() {
         // TODO create PR for touchConfig in Gdn_Config
-        touchConfig('Digest.UsersPerTask', 50000)
+        touchConfig('Digest.UsersPerTask', 50000);
         $this->structure();
     }
 
